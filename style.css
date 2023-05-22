@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image: url('https://www.lughertexture.com/index.php?view=image&format=raw&type=orig&id=2227&Itemid=217&option=com_joomgallery&catid=34');
     background-repeat: no-repeat;
@@ -95,4 +96,12 @@ select{
     font-family: Garamond, Georgia;
     font-size: 35px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+=======
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%;
+    
+>>>>>>> 192be11771b1e3de76ae58fd0f0583b87062b033
 }
