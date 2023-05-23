@@ -1,6 +1,6 @@
 body{
     background-image: url('background-stones.jpg');
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
 }
 
@@ -62,9 +62,10 @@ body{
 
 
 .button{
-    position: absolute;
-    top: 470px;
-    left: 50%;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 280px;
     transform: scale(1.0);
     border: none;
     width: 110px;
