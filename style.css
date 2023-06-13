@@ -1,6 +1,6 @@
 body{
 
-    background-image: url('https://www.lughertexture.com/index.php?view=image&format=raw&type=orig&id=2227&Itemid=217&option=com_joomgallery&catid=34');
+    background-image: url('background-stones.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -26,7 +26,7 @@ body{
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .from{
@@ -67,7 +67,7 @@ body{
     margin: auto;
     display: block;
     position: relative;
-    top: 280px;
+    top: 335px;
     transform: scale(1.0);
     border: none;
     width: 110px;
