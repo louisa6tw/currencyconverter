@@ -1,5 +1,4 @@
 body{
-
     background-image: url('background-stones.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -123,7 +122,4 @@ select{
     border: 2px solid;
     border-color:#989898 ;
     cursor: pointer;
-}
-#myImage2{
-    top: 600px;
 }
