@@ -118,4 +118,12 @@ select{
     border: 2px solid;
     border-color:#989898 ;
     cursor: pointer;
+
+}
+#myImage2{
+    top: 600px;
+}
+
+#result{
+    background-color: #F8F8F8;
 }
