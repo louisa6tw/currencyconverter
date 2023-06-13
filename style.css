@@ -1,8 +1,7 @@
-
 body{
-    background-image: url('background-stones.jpg');
-    background-repeat: repeat-y;
 
+    background-image: url('https://www.lughertexture.com/index.php?view=image&format=raw&type=orig&id=2227&Itemid=217&option=com_joomgallery&catid=34');
+    background-repeat: repeat-y;
     background-size: cover;
 }
 
@@ -27,9 +26,8 @@ body{
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
 }
-
 
 .from{
     position: absolute;
@@ -69,7 +67,7 @@ body{
     margin: auto;
     display: block;
     position: relative;
-    top: 335px;
+    top: 280px;
     transform: scale(1.0);
     border: none;
     width: 110px;
@@ -106,7 +104,6 @@ select{
     background-color: whitesmoke;
 }
 
-
 #before{
     background-color: #F8F8F8;
     padding: 8px 14px;
@@ -126,12 +123,4 @@ select{
     border: 2px solid;
     border-color:#989898 ;
     cursor: pointer;
-
-}
-#myImage2{
-    top: 600px;
-}
-
-#result{
-    background-color: #F8F8F8;
 }
